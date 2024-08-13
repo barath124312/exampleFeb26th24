@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Bdd testcases">
+<test name="actitime project">
+	<classes>
+	<class name="com.bharath.actitime.testsuite.DriverScript"></class>
+	</classes>
+</test>
+</suite>
